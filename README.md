@@ -1,3 +1,3 @@
 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. 
 
-30 günde JS öğrenme çalışması. JS notları ve kendimin aldığı notları içerir. 
+https://github.com/Asabeneh/30-Days-Of-JavaScript github reposundaki Javascript eğitiminin kendimce Türkçeleştirilmiş ve yorumlanmış versiyonudur. Bu versiyonda bende hem ingilizcemi geliştirmek hemde javascripti öğrenmek istedim ve böyle bir çalışma yapmaya karar verdim.
