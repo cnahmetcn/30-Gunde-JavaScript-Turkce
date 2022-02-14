@@ -1,4 +1,11 @@
-![30 Günde JS](./images/day_1_1.png)
+<div align="center">
+  <h1> 30 Günde JavaScript: Gün 1 - Giriş</h1>
+  <sub>Çeviren:
+  <a href="https://www.linkedin.com/in/cnahmetcn/" target="_blank">Ahmet Can</a><br>
+  </sub>
+</div>
+
+![30 Günde JavaScript](../images/day_1_1.png)
 
 - [30 Günde JavaScript](#30-days-of-javascript)
 - [📔 Gün 1](#-day-1)
@@ -41,11 +48,11 @@
 
 Şuan için Node.js e gerek yok ancak ilerleyen bölümlerde ihtiyacımız olacak. Bu yüzden şimdi de yükleyebiliriz. Buradan indirebilirsiniz. [node.js](https://nodejs.org/en/).
 
-![Node download](images/download_node.png)
+![Node download](../images/download_node.png)
 
 İndikten sonra dosyayı açarak kuruluma başlayın.
 
-![Install node](images/install_node.png)
+![Install node](../images/install_node.png)
 
 Kurulum tamamlandıktan sonra terminale aşağıdaki kodu yazarak yüklemeyi doğrulayabilirsiniz.
 
@@ -64,7 +71,7 @@ Tarayıcı için birden fazla seçenek olsa da en güçlü aday Google Chrome u 
 
 Eğer bilgisayarınızda kurulu değilse Chrome u bu adresten indirebilirsiniz [Google Chrome](https://www.google.com/chrome/). Başlangıçta küçük JS kodlarını tarayıcının konsol ekranında yazacağız ancak uygulama geliştirirken bunu kullanmayacağız. 
 
-![Google Chrome](images/google_chrome.png)
+![Google Chrome](../images/google_chrome.png)
 
 #### Google Chrome Console u Açma
 
@@ -72,7 +79,7 @@ You can open Google Chrome console either by clicking three dots at the top righ
 
 Google Chrome un **Geliştirici Araçları** na ulaşmak için sağ üstte bulunan 3 noktaya tıklayıp _Diğer Araçlar -> Geliştirici araçları_ (_More tools -> Developer tools_) yada klavye kısayolunu kullanabilirsiniz.
 
-![Opening chrome](images/opening_developer_tool.png)
+![Opening chrome](../images/opening_developer_tool.png)
 
 Klavye kısayolunu kullanarak Console a erişmek için
 
@@ -84,11 +91,11 @@ Windows/Linux:
 Ctl+Shift+J
 ```
 
-![Opening console](images/opening_chrome_console_shortcut.png)
+![Opening console](../images/opening_chrome_console_shortcut.png)
 
 Console u açtıktan sonra, işaretli alanları keşfedin. Bu kısımda çok zaman geçireceğiz. Console, JS kodlarınızın gittiği yerdir. JS kodlarınız burada V8 motoru kullanarak makine diline çevrilir. Şimdi gelin Google Chrome konsoluna bir JavaScript kodu yazalım: 
 
-![write code on console](./images/js_code_on_chrome_console.png)
+![write code on console](../images/js_code_on_chrome_console.png)
 
 #### Tarayıcı Konsoluna JS Kodu Yazma
 
@@ -108,7 +115,7 @@ Kodu çalıştırdığımızda bize Hello, World! olarak çıktı verecektir.
 
 **console.log()** fonksiyonu virgül kullanılarak birden fazla argüman alabilir. Söz dizimi şuna benzer: **console.log(param1, param2, param3)**
 
-![console log multiple arguments](./images/console_log_multipl_arguments.png)
+![console log multiple arguments](../images/console_log_multipl_arguments.png)
 
 ```js
 console.log('Hello', 'World', '!')
@@ -138,7 +145,7 @@ yorum olarak kabul edilir ve derlenmez.
 
 Programlama dilleri konuşma dillerine benzer. Birçok dil anlamlı bir mesaj iletmek için kelimeler, deyimler, cümleler, birleşik cümleler ve daha fazlasını kullanır. Sözdiziminin İngilizce anlamı, _bir dilde iyi oluşturulmuş cümleler oluşturmak için sözcüklerin ve tümceciklerin düzenlenmesidir. Sözdiziminin teknik tanımı, bir bilgisayar dilindeki ifadelerin yapısıdır. Programlama dillerinde sözdizimi vardır. JavaScript bir programlama dilidir ve diğer programlama dilleri gibi kendi söz dizimine sahiptir. JavaScript'in anladığı bir sözdizimi yazmazsak, farklı türde hatalar ortaya çıkar. Farklı JavaScript hata türlerini daha sonra keşfedeceğiz. Şimdilik sözdizimi hatalarını görelim. 
 
-![Error](images/raising_syntax_error.png)
+![Error](../images/raising_syntax_error.png)
 
 Burada kasıtlı bir hata yaptık. Sonuç olarak, console sözdizimi hatalarını gösterir. Aslında, sözdizimi çok bilgilendirici olabiliyor. Ne tür bir hata yapıldığını bildiriyor. Hata geri bildirim kılavuzunu okuyarak sözdizimini düzeltebilir ve sorunu çözebiliriz. Bir programdaki hataları belirleme ve kaldırma işlemine hata ayıklama denir. Hataları düzeltelim: 
 
@@ -163,7 +170,7 @@ console.log(`Hello, World!`)
 
 Şimdi console ekranında sayı veri türleri üzerinde biraz JS pratik yapalım. Aşağıdaki işlemleri **_console.log_** ile yapalım. Console ekranı console.log fonksiyonuna gerek duymadan da bu aritmetik işlemleri yapabilir. 
 
-![Arithmetic](images/arithmetic.png)
+![Arithmetic](../images/arithmetic.png)
 
 ```js
 console.log(2 + 3) // Toplama
@@ -182,7 +189,7 @@ Kodlarımızı tarayıcımızın console alanına yazdık ancak büyük projeler
 
 VS Code, çok popüler ve açık kaynaklı bir editördür. Size bunu tavsiye ederim ancak kullandığınız yada kullanmak istediğniz başka editörler veya IDE ler varsa onları da kullanabilirsiniz. [Visual Studio Code u indirin](https://code.visualstudio.com/)
 
-![Vscode](images/vscode.png)
+![Vscode](../images/vscode.png)
 
 VS Code u indirip, kurduysanız başlayabiliriz.
 
@@ -190,19 +197,19 @@ VS Code u indirip, kurduysanız başlayabiliriz.
 
 VS Code u çalıştırın. Açtığınızda, bu tür bir arayüz elde edeceksiniz. İşaretli alanları kullanarak sizde VS Code u keşfedebilirsiniz. 
 
-![Vscode ui](./images/vscode_ui.png)
+![Vscode ui](../images/vscode_ui.png)
 
-![Vscode add project](./images/adding_project_to_vscode.png)
+![Vscode add project](../images/adding_project_to_vscode.png)
 
-![Vscode open project](./images/opening_project_on_vscode.png)
+![Vscode open project](../images/opening_project_on_vscode.png)
 
-![script file](images/scripts_on_vscode.png)
+![script file](../images/scripts_on_vscode.png)
 
-![Installing Live Server](images/vsc_live_server.png)
+![Installing Live Server](../images/vsc_live_server.png)
 
-![running script](./images/running_script.png)
+![running script](../images/running_script.png)
 
-![coding running](./images/launched_on_new_tab.png)
+![coding running](../images/launched_on_new_tab.png)
 
 ## Web Sayfalarına JS Kodu Eklemek
 
@@ -266,7 +273,7 @@ Sayfa içine yazılan kodlar ```<script> </script>``` etiketleri içinde _head_ 
 
 Şimdi tarayıcımızda projemizi açalım ve console ekranına bakalım
 
-![js code from vscode](./images/js_code_vscode.png)
+![js code from vscode](../images/js_code_vscode.png)
 
 ### Sayfa Dışından Script Yazma ve Çağırma
 
@@ -330,7 +337,7 @@ console.log('Hello, World!')
 
 _Ana *.js dosyanız diğer tüm komut dosyalarının altında olmalıdır_. Bunu hatırlamak çok önemlidir. 
 
-![Multiple Script](./images/multiple_script.png)
+![Multiple Script](../images/multiple_script.png)
 
 ## Veri Türlerine Giriş
 
@@ -517,7 +524,7 @@ console.log(name, job, live)
 Ahmet mühendis Türkiye
 ```
 
-![Day one](./images/day_1.png)
+![Day one](../images/day_1.png)
 
 🌕 Harikasın! 1. günü yeni tamamladın ve mükemmel yolundasın. Şimdi beyniniz ve kasınız için bazı egzersizler yapın. 
 
@@ -542,3 +549,5 @@ Sen 26 yaşındasın.
 ```
 
 🎉 TEBRİKLER ! 🎉
+
+[Gün 2 >>](../02_Gun_Veri_Turleri/02_README.md)

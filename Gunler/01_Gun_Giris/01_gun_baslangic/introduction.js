@@ -1,1 +1,1 @@
-console.log('Welcome to 30DaysOfJavaScript')
+console.log('30 Günde JavaScript Eğitimine Hoşgeldiniz')
