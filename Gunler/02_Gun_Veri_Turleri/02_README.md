@@ -5,7 +5,7 @@
   </sub>
 </div>
 
-[<< Gün 1](../01_Gun_Giris/01_README.md) |
+[<< Gün 1](../01_Gun_Giris/01_README.md) | [Gün 3 >>](../03_Gun_Booleans_Operatorler_Tarih_Islemleri/03_README.md)
 
 ![30 Günde JavaScript](../images/banners/day_1_2.png)
 
@@ -947,4 +947,4 @@ console.log(numInt) // 9
 
 🎉 TEBRİKLER ! 🎉
 
-[<< Day 1](../01_Gun_Giris/01_README.md) | [Day 3 >>](#)
+[<< Gün 1](../01_Gun_Giris/01_README.md) | [Gün 3 >>](../03_Gun_Booleans_Operatorler_Tarih_Islemleri/03_README.md)
