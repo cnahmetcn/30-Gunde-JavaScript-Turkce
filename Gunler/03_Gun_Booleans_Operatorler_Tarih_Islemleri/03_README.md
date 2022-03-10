@@ -5,7 +5,7 @@
   </sub>
 </div>
 
-[<< Day 2](../02_Gun_Veri_Turleri/02_README.md) | [Day 4 >>](#)
+[<< Day 2](../02_Gun_Veri_Turleri/02_README.md) | [Day 4 >>](../04_Gun_Kosul_Ifadeleri/04_README.md)
 
 ![30 Günde JavaScript](../images/banners/day_1_3.png)
 
@@ -641,4 +641,4 @@ console.log(`${date}/${month}/${year} ${hours}:${minutes}`) // 17/2/2022 14:19
 1. Tarih saat nesnesini kullanarak insan tarafından okunabilir bir saat biçimi oluşturun. Saat ve dakika her zaman iki basamaklı olmalıdır (7 saat 07 ve 5 dakika 05 olmalıdır) 
    1. YYY-MM-DD HH:mm eg. 2022-02-17 15:00
 
-[<< Day 2](../02_Gun_Veri_Turleri/02_README.md) | [Day 4 >>](#)
+[<< Day 2](../02_Gun_Veri_Turleri/02_README.md) | [Day 4 >>](../04_Gun_Kosul_Ifadeleri/04_README.md)
