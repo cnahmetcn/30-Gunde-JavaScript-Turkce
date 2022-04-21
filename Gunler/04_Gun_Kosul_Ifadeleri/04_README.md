@@ -5,7 +5,7 @@
   </sub>
 </div>
 
-[<< Day 3](../03_Gun_Booleans_Operatorler_Tarih_Islemleri/03_README.md) | [Day 5 >>](#)
+[<< Gün 3](../03_Gun_Booleans_Operatorler_Tarih_Islemleri/03_README.md) | [Gün 5 >>](../05_Gun_Diziler/05_README.md)
 
 ![30 Günde JavaScript](../images/banners/day_1_4.png)
 
@@ -342,4 +342,4 @@ isRaining
 
 🎉 TEBRİKLER ! 🎉
 
-[<< Day 3](../03_Gun_Booleans_Operatorler_Tarih_Islemleri/03_README.md) | [Day 5 >>](#)
+[<< Gün 3](../03_Gun_Booleans_Operatorler_Tarih_Islemleri/03_README.md) | [Gün 5 >>](../05_Gun_Diziler/05_README.md)
