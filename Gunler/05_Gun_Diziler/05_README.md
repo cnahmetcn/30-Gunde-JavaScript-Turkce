@@ -6,7 +6,7 @@
   </sub>
 </div>
 
-[<< Gün 4](../04_Gun_Kosul_Ifadeleri/04_README.md) | [Gün 6 >>](#)
+[<< Gün 4](../04_Gun_Kosul_Ifadeleri/04_README.md) | [Gün 6 >>](../06_Gun_Donguler/06_README.md)
 
 ![30 Günde JavaScript](../images/banners/day_1_5.png)
 
@@ -768,4 +768,4 @@ const webTechs = [
   
 🎉 TEBRİKLER ! 🎉
 
-[<< Gün 4](../04_Gun_Kosul_Ifadeleri/04_README.md) | [Gün 6 >>](#)
+[<< Gün 4](../04_Gun_Kosul_Ifadeleri/04_README.md) | [Gün 6 >>](../06_Gun_Donguler/06_README.md)
